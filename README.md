@@ -1,1 +1,6 @@
 # Nudt7-Western-Diet
+
+## Abstract
+Nudix hydrolase 7 (NUDT7) is a peroxisomal (acyl-)CoA-degrading enzyme that is highly expressed in the liver. We previously showed that liver-specific NUDT7 overexpression affects peroxisomal lipid metabolism, but does not prevent the increase in total liver CoA levels that occurs with fasting. Herein, we show that deletion of Nudt7 alters the composition of the hepatic acyl-CoA pool in mice fed a low fat diet, but only in males fed a western diet does the lack of NUDT7 increase total liver CoA levels. This effect is driven by the accumulation of medium-chain dicarboxylic acyl-CoAs, which are products of the oxidation of dicarboxylic fatty acids in the peroxisomes. We also show that, under conditions of increased cholesterol intake and elevated bile acid synthesis, Nudt7 deletion increases the production of tauro-muricholic acids, decreasing the hydrophobicity index of the intestinal bile acid pool and increasing fecal cholesterol excretion. Collectively, our findings reveal a key role for NUDT7 in the regulation of the final products of bile acid synthesis and dicarboxylic fatty acid oxidation. 
+
+Keywords: Coenzyme A, Nudix hydrolases, peroxisomes, lipid metabolism, bile acids, western diet, cholesterol
